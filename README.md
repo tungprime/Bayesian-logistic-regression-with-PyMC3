@@ -8,3 +8,5 @@ I decided to master this library by doing some hands-on projects. This is my fir
 <a href="https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+"> Occupancy Detection Data Set. </a>
 
 The dataset contains several variables such as light, temperature, humidity, and CO2 levels. The goal is to detect a room's occupancy from these variables.
+
+I am grateful to Austin for introducing me to Bayesian machine learning in general and PyMC3 in particular. His recommendations for books and resources on these topics have been really helpful. Let me know if you are interested, I can direct you to these references as well. 
